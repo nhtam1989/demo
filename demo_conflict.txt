@@ -3,3 +3,4 @@ dòng 22222
 dòng conflict
 dòng conflict demo next
 dòng 5
+dong 6
