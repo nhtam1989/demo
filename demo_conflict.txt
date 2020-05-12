@@ -1,2 +1,2 @@
 dòng 1 2 3 
-dòng conflict
+dòng conflict demo next
